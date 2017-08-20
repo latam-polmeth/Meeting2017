@@ -20,5 +20,10 @@ There will be a day of public presentations which will be open to the public, an
 - John B. Londregan (Princeton University, USA)
 - Santiago Olivella (University of North Carolina at Chapel Hill, USA)
 
+### Sponsors
+<img src="https://github.com/latam-polmeth/Meeting2017/blob/master/PUC.jpg" alt="Universidad Católica de Chile" width="150">
+<img src="https://github.com/latam-polmeth/Meeting2017/blob/master/princeton.jpg" alt="Princeton University" width="150">
+<img src="https://github.com/latam-polmeth/Meeting2017/blob/master/unc.jpg" alt="University of North Carolina at UNC" width="150">
+
 
 

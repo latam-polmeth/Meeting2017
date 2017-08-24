@@ -36,6 +36,6 @@ More information about the city, places to stay, eat, etc. around the event loca
 
 ### Sponsors
 
-<img src="PUC.jpg" alt="Universidad Católica de Chile, Instituto de Ciencia Política y Núcleo Milenio" width="100"> <img src="princeton.jpg" alt="Princeton University" width="100"> <img src="illinoislogo.jpg" alt="University of Illinois at Urbana-Champaign" width="100"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" width="100">
+<img src="PUC.jpg" alt="Universidad Católica de Chile, Instituto de Ciencia Política y Núcleo Milenio" width="100"> <img src="princeton.jpg" alt="Princeton University" width="100"> <img src="illinoislogo.png" alt="University of Illinois at Urbana-Champaign" width="100"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" width="100">
 
 

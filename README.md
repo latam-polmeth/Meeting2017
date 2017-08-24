@@ -19,7 +19,9 @@ To register for the meeting, fill out the registration form [here](https://goo.g
 ## Logistics
 
 The meeting will take place in **Santiago, Chile**, at the Universidad Católica campus, on **November 17 and 18, 2017**.
-There will be a day of public presentations which will be open to the public, and which feature two keynote talks and one roundtable discussion. There will also be a day of paper workshops, which will be restricted to registered participants. During this day, previously circulated manuscipts will be actively discussed, and no presentation will take place. There will be a short social event for all registered participants.   
+There will be a day of public presentations which will be open to the public, and which feature two keynote talks and one roundtable discussion. There will also be a day of paper workshops, which will be restricted to registered participants. During this day, previously circulated manuscipts will be actively discussed, and no presentation will take place. There will be a short social event for all registered participants.  
+
+All talks and sessions will be held in English.
 
 More information about the city, places to stay, eat, etc. around the event location will be coming soon.
 

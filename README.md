@@ -1,8 +1,8 @@
 
-[Program][#program] [Registration][#registration] [Logistics][#logistics]
-___
-
+<a href="#program">Program</a> | <a href="#registration">Registration</a> | <a href="#logistics">Logistics</a>
+---
 # Latin American Political Methodology Meeting
+
 
 Welcome! We are excited to announce the first Latin American PolMeth meeting. The event will take place in November 17 and 18 in Santiago de Chile, and will feature a day of public talks and a day of workshops for participant's manuscripts. It is hosted by the Pontificia Universidad Católica de Chile, with support from Princeton University. 
 
@@ -33,9 +33,7 @@ More information about the city, places to stay, eat, etc. around the event loca
 - Santiago Olivella (University of North Carolina at Chapel Hill, USA)
 
 ### Sponsors
-<img src="https://github.com/latam-polmeth/Meeting2017/blob/master/PUC.jpg" alt="Universidad Católica de Chile, Instituto de Ciencia Política y Núcleo Milenio" width="100">
-<img src="https://github.com/latam-polmeth/Meeting2017/blob/master/princeton.jpg" alt="Princeton University" width="100">
-<img src="https://github.com/latam-polmeth/Meeting2017/blob/master/unc.jpg" alt="University of North Carolina at UNC" width="100">
 
+<img src="PUC.jpg" alt="Universidad Católica de Chile, Instituto de Ciencia Política y Núcleo Milenio" width="100"> <img src="princeton.jpg" alt="Princeton University" width="100"> <img src="unc.jpg" alt="University of North Carolina at UNC" width="100">
 
 

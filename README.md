@@ -42,7 +42,7 @@ We recommend you find a place near the following neighborhoods:
 - Bellas Artes/Lastarria: Good night life, easy metro access and simple route to the PUC San Joaquin Campus.
 - Near Tobalaba metro station: Close to metro, dining and shopping. Trip to San Joaquin Campus of PUC requires transfer to green line.   
 
-For more information about the city, please visit http://chile.travel/en/.
+For more information about the city, please visit [http://chile.travel/en/].
 
 ### Organizing team
 

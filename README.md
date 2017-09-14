@@ -18,13 +18,31 @@ To register for the meeting, fill out the registration form [here](https://goo.g
 
 ## Logistics
 
-The meeting will take place in **Santiago, Chile**, at the Universidad Católica campus, on **November 17 and 18, 2017**.
+
+### Meeting location
+The meeting will take place in **Santiago, Chile**, at the Universidad Católica (San Joaquin campus), on **November 17 and 18, 2017**. The nearest Metro stop is **Estacion San Joaquin**.
+
+All events will take place at the lower level of the _Facultad de Historia, Geografia y Ciencia Politica_, marked by a black circle in the following map:
+
+<img src="MapaSanJoaquin.jpg" alt="San Joaquin Campus Map" width="400"> 
+
+
+The closest entrance to campus is on Monseñor Carlos Casanueva, although you can also uise the entrance on Avenida Vicuña Mackenna, which is closest to the metro stop (San Joaquin).  
+
+
+### Event format
 There will be a day of public presentations which will be open to the public, and which feature two keynote talks and one roundtable discussion. There will also be a day of paper workshops, which will be restricted to registered participants. During this day, previously circulated manuscipts will be actively discussed, and no presentation will take place. There will be a short social event for all registered participants.  
 
 All talks and sessions will be held in English.
 
-More information about the city, places to stay, eat, etc. around the event location will be coming soon.
+### Lodging options & information about the city
+AirBnB is a great option for affordable and convenient lodging. 
 
+We recommend you find a place near the following neighborhoods:
+- Bellas Artes/Lastarria: Good night life, easy metro access and simple route to the PUC San Joaquin Campus.
+- Near Tobalaba metro station: Close to metro, dining and shopping. Trip to San Joaquin Campus of PUC requires transfer to green line.   
+
+For more information about the city, please visit http://chile.travel/en/.
 
 ### Organizing team
 

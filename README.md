@@ -24,7 +24,7 @@ The meeting will take place in **Santiago, Chile**, at the Universidad Católica
 
 All events will take place at the lower level of the _Facultad de Historia, Geografia y Ciencia Politica_, marked by a black circle in the following map:
 
-<img src="MapaSanJoaquin.jpg" alt="San Joaquin Campus Map" width="400"> 
+<img src="mapa auditorio san joaquín.jpg" alt="San Joaquin Campus Map" width="400"> 
 
 
 The closest entrance to campus is on Monseñor Carlos Casanueva, although you can also uise the entrance on Avenida Vicuña Mackenna, which is closest to the metro stop (San Joaquin).  

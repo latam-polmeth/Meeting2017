@@ -16,6 +16,8 @@ A preliminary program for the event can be found [here](https://docs.google.com/
 
 To register for the meeting, fill out the registration form [here](https://goo.gl/forms/7LLcVxCgOA3ASaRh2). **The event has no registration fee. However, space is limited, and registration is required for those wishing to take part in the workshops.**
 
+If you would like to join the Society for Political Methodology, you can visit their registration page [here]( https://www.cambridge.org/core/membership/spm/membership). In addition to full online access to Political Analysis, members get 20% discount on all Cambridge University Press Books.  
+
 ## Logistics
 
 

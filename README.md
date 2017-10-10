@@ -54,7 +54,7 @@ For more information about the city, please visit [http://chile.travel/en/](http
 
 ### Sponsors
 
-<img src="PUC.jpg" alt="Universidad Católica de Chile" width="100"> <img src="princeton.jpg" alt="Princeton University" width="100"> <img src="illinoislogo.png" alt="University of Illinois at Urbana-Champaign" height="50"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" width="100">
+<img src="PUC.jpg" alt="Universidad Católica de Chile" width="100"> <img src="princeton.jpg" alt="Princeton University" width="100"> <img src="illinoislogo.png" alt="University of Illinois at Urbana-Champaign" height="50"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" width="175"><img src="SPM.png" alt="Society For Political Methodology" width="215">
 
 <img src="Logo Núcleo (en alta res.).jpg" alt="Nucleo Milenio" width="100"> <img src="LogoMilenio_positivo.png" alt="Nucleo Milenio Positivo" width="200"> 
 

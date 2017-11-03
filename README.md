@@ -8,6 +8,8 @@ Welcome! We are excited to announce the first Latin American PolMeth meeting. Th
 
 The meeting will feature keynote talks by Kosuke Imai of Princeton University (current president of the Society for Political Methodology) and by Rocío Titiunik of the University of Michigan (recent recipient of the Emerging Scholar Award by the Society of Political Methodology). 
 
+Cambridge University Press, in conjunction with the Society for Political Methodology, has kindly agreed to provide free access to a selection of papers published recently in Political Analsysis and which feature research on Latin America. You can access the papers [here](https://www.cambridge.org/core/journals/political-analysis/special-collections/latin-american-political-methodology-2017-collection).
+
 ## Program
 
 A preliminary program for the event can be found [here](https://docs.google.com/document/d/1R7mAs7t6DxL9360jTUCED_eNJP-t_ukchillBr082SA/pub). 

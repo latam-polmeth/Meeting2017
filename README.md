@@ -2,17 +2,19 @@
 <a href="#program">Program</a> | <a href="#registration">Registration</a> | <a href="#logistics">Logistics</a>
 ---
 # Latin American Political Methodology Meeting
+# \#lapolmeth17
 
+**REGISTRATION IS NOW CLOSED FOR ALL FRIDAY EVENTS. PLEASE JOIN US ON SATURDAY FOR A DAY OF PUBLIC PRESENTATIONS**
 
 Welcome! We are excited to announce the first Latin American PolMeth meeting. The event will take place in November 17 and 18 in Santiago de Chile, and will feature a day of public talks and a day of workshops for participant's manuscripts. It is hosted by the Pontificia Universidad Católica de Chile, with support from Princeton University. 
 
-The meeting will feature keynote talks by Kosuke Imai of Princeton University (current president of the Society for Political Methodology) and by Rocío Titiunik of the University of Michigan (recent recipient of the Emerging Scholar Award by the Society of Political Methodology). 
+The meeting will feature keynote talks by Kosuke Imai of Princeton University (current president of the Society for Political Methodology) and by Rocío Titiunik of the University of Michigan (recent recipient of the Emerging Scholar Award by the Society of Political Methodology).
 
 Cambridge University Press, in conjunction with the Society for Political Methodology, has kindly agreed to provide free access to a selection of papers published recently in Political Analsysis and which feature research on Latin America. You can access the papers [here](https://www.cambridge.org/core/journals/political-analysis/special-collections/latin-american-political-methodology-2017-collection).
 
 ## Program
 
-A preliminary program for the event can be found [here](https://docs.google.com/document/d/1R7mAs7t6DxL9360jTUCED_eNJP-t_ukchillBr082SA/pub). 
+The final program for the event can be found [here](https://docs.google.com/document/d/1R7mAs7t6DxL9360jTUCED_eNJP-t_ukchillBr082SA/pub). 
 
 ## Registration
 
@@ -24,9 +26,9 @@ If you would like to join the Society for Political Methodology, you can visit t
 
 
 ### Meeting location
-The meeting will take place in **Santiago, Chile**, at the Universidad Católica (San Joaquin campus), on **November 17 and 18, 2017**. The nearest Metro stop is **Estacion San Joaquin**.
+The meeting will take place in Santiago, Chile, at the Universidad Católica (San Joaquin campus), on November 17 and 18, 2017. The nearest Metro stop is Estacion San Joaquin.
 
-All events will take place at the lower level of the _Facultad de Historia, Geografia y Ciencia Politica_, marked by a black circle in the following map:
+The sessions on Friday will take place at Centro de Innovación UC Anacleto Angelini. We will convene at the Auditorio Ejecutivo (1st floor) at 8:45 am for some welcoming words, and move on to panels to be held at either the same Auditorio Ejecutivo (all Workshop A’s) or Sala 300 (all Workshop B's). The Saturday event will take place at the facultad Auditorio Facultad de Historia, Ciencia Política y Geografía (located on the first floor). 
 
 <img src="mapa%20auditorio%20san%20joaqui%CC%81n.jpg" alt="San Joaquin Campus Map" width="400"> 
 
@@ -35,7 +37,8 @@ The closest entrance to campus is on Monseñor Carlos Casanueva, although you ca
 
 
 ### Event format
-There will be a day of public presentations which will be open to the public, and which feature two keynote talks and one roundtable discussion. There will also be a day of paper workshops, which will be restricted to registered participants. During this day, previously circulated manuscipts will be actively discussed, and no presentation will take place. There will be a short social event for all registered participants.  
+There will be a day of public presentations which will be open to the public, and which feature two keynote talks and one roundtable discussion. 
+There will also be a day of paper workshops open to registered participants only. During this day, previously circulated manuscipts will be actively discussed, and no presentation will take place. Participation during workshops will follow the “1 finger/ 2 finger format”: a single raised finger indicates to the moderator that the participant wishes to be added to the list to make a new contribution to the discussion, and two raised fingers indicate the participant wishes to make an urgent point related to what was just said. There will be a short social event for all registered participants.  
 
 All talks and sessions will be held in English.
 
